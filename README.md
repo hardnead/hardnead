@@ -55,22 +55,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardnead/hardnead/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardnead/hardnead/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h2 align="center">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/hardnead/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/danendrahj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
