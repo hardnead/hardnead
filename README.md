@@ -1,9 +1,3 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼, 𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲!</h1>
-
-<h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
